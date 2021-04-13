@@ -1,0 +1,33 @@
+.img{
+  float: left;
+ margin: -997px 10px 33px 1361px;
+ width: 370px;
+}
+.cardBody{
+  width: 1900px;
+  height: 1000px;
+  
+  border: solid white 2px;
+  text-shadow: white 0px 0px 2px;
+  font-size: 17px;
+  background-size: 1900px;
+  background-repeat: no-repeat;
+
+}
+.name{
+  color :rgb(221, 146, 190);
+  position: relative;
+  right: 5px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  letter-spacing: 5px;
+}
+.bio{
+  color: black;
+  
+}
+.prof{
+  color: rgb(39, 39, 41);
+  position: relative;
+  bottom: 30px;
+}
